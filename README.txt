@@ -1,0 +1,1 @@
+This program made use of stacks and queues to convert decimal numbers into binary numbers. The initial decimal number was divided into its component integer and decimal parts in the main function. The stack was used to tackle the integer conversion while the queue was used to tackle the decimal conversion.
